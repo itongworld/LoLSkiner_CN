@@ -1,9 +1,6 @@
 # -*- coding:utf-8 -*-
 
-"""
-@date: 2016/05/09
-@author: OUYANG
-"""
+
 
 import PyV8
 import os

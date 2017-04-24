@@ -1,12 +1,6 @@
 # -*- coding:utf-8 -*-
 
 
-"""
-@date: 2016/05/09
-@update: 2017/04/16
-@author: OUYANG
-@version: 1.1
-"""
 
 '''
 To download the official hero skins in url: http://lol.qq.com/web201310/info-heros.shtml

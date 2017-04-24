@@ -1,9 +1,5 @@
 # -*- coding:utf-8 -*-
 
-"""
-@date: 2016/05/09
-@author: OUYANG
-"""
 
 import urllib2
 
@@ -13,7 +9,7 @@ import urllib2
 
 
 class FileDownloader(object):
-    """Download any files in this class,etc js, html, .jpg, .png"""
+    """Download any files in this class, js, html, jpg, png"""
 
     def download(self, url, filename = ''):
         if filename == '':
